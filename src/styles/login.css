@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.view{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.sign_up{
+    position: absolute;
+    top: 70px;
+    right: 50px;
+}
+.nav1 h1{
+    margin: 50px;
+}
